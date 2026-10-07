@@ -16,7 +16,7 @@
 ##Dataset
 - 14999rows, 10 columns
 - target: attrition (stay:0, left:1)
-- The variable 'satisfaction_level' removed because there is no individual satisfaction_level in real-world HR systems.
+- The variable 'satisfaction_level' and'last_evaluation' removed because there is no individual satisfaction_level in real-world HR systems.
 
 ##Tech Stack
 - 'data/' - HR dataset(synthetic, provided by GAAC capstone)
